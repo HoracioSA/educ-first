@@ -21,7 +21,7 @@ useEffect(()=>{
       <div id="page-landing-content" className="container">
           <div className="logo-container">
               <img src={logoImg} alt="logo"/>
-              <h2>Your platformfor online studies.</h2>
+              <h2>Your platform for online studies.</h2>
           </div>
           <img 
           src={landingImg} 
